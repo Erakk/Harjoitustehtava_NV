@@ -1,0 +1,29 @@
+.messageWalls{
+    border-bottom: 1px solid #efefef;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.removeMessage {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    outline: none;
+    box-shadow: none;
+    border-width: 2px;
+    border-radius: 3px;
+    border-style: solid;
+    padding: 8px;
+    color: rgb(203, 20, 32);
+    border-color: rgb(203, 20, 32);
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+
+}
+.txt-area-message   {
+    border: 2px solid rgb(200, 70, 70);
+    border-top: 2px solid rgb(200, 70, 70);
+    border-bottom: 2px solid rgb(200, 70, 70);
+    resize: none;
+ }
